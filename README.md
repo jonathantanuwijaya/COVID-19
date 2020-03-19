@@ -2,6 +2,8 @@
 
 # covid19
 
+# aplikasi ini merupakan sedikit perubahan dari aplikasi sebelumnya yang telah dibuat oleh hifiaz
+(https://github.com/hifiaz/covid19)
 Monitoring Covid.
 
 <img src="https://raw.githubusercontent.com/hifiaz/covid19/master/flutter_01.png" width="250">
